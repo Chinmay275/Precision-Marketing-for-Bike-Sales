@@ -10,12 +10,21 @@ scripts/: Includes Python scripts for data cleaning where dividing the raw data 
 powerbi/: Holds PowerBI dashboards including different datasets.
 README.md: This file, providing an overview of the project and instructions for running scripts and using the PowerBI dashboards.
 
+# PowerBi Dashboards
 
+Created Dashboards from different datasets showing insights regarding the customers, transactions, and others.
+
+1. Customer Data Insights --> 
 
 ![Customer Data Dashboard](https://github.com/Chinmay275/Precision-Marketing-for-Bike-Sales/assets/90389940/79c156af-9122-42e8-80bd-c5ecc4aee0c7)
 
+2. Transaction Data Insights -->
+
+![Transaction Details Dashboard ](https://github.com/Chinmay275/Precision-Marketing-for-Bike-Sales/assets/90389940/ffc2762f-ae98-4864-aad7-5076b2898056)
+
+3. RFM Analysis Data Insights -->
 
 ![RFM Analysis Dashboard](https://github.com/Chinmay275/Precision-Marketing-for-Bike-Sales/assets/90389940/0d40a917-61fc-4233-9158-e510cea04108)
 
 
-![Transaction Details Dashboard ](https://github.com/Chinmay275/Precision-Marketing-for-Bike-Sales/assets/90389940/ffc2762f-ae98-4864-aad7-5076b2898056)
+
